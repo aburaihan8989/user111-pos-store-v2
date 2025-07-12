@@ -92,10 +92,10 @@
                                                     {{-- {{ $product->category }} --}}
                                                     @if ($data->category == 'toko')
                                                         Toko
-                                                    @elseif ($data->category == 'produk')
-                                                        Produk
-                                                    @elseif ($data->category == 'retail')
-                                                        Retail
+                                                    @elseif ($data->category == 'antar')
+                                                        Antar
+                                                    @elseif ($data->category == 'lainnya')
+                                                        Lainnya
                                                     @endif
                                                 </td>
                                                 <td>

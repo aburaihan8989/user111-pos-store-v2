@@ -109,14 +109,14 @@
                                         <span class="selectgroup-button">Toko</span>
                                     </label>
                                     <label class="selectgroup-item">
-                                        <input type="radio" name="category" value="produk" class="selectgroup-input"
-                                            @if ($product->category == 'produk') checked @endif>
-                                        <span class="selectgroup-button">Produk</span>
+                                        <input type="radio" name="category" value="antar" class="selectgroup-input"
+                                            @if ($product->category == 'antar') checked @endif>
+                                        <span class="selectgroup-button">Antar</span>
                                     </label>
                                     <label class="selectgroup-item">
-                                        <input type="radio" name="category" value="retail" class="selectgroup-input"
-                                            @if ($product->category == 'retail') checked @endif>
-                                        <span class="selectgroup-button">Retail</span>
+                                        <input type="radio" name="category" value="lainnya" class="selectgroup-input"
+                                            @if ($product->category == 'lainnya') checked @endif>
+                                        <span class="selectgroup-button">Lainnya</span>
                                     </label>
                                 </div>
                             </div>

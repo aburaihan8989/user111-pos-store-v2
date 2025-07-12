@@ -108,12 +108,12 @@
                                         <span class="selectgroup-button">Toko</span>
                                     </label>
                                     <label class="selectgroup-item">
-                                        <input type="radio" name="category" value="produk" class="selectgroup-input">
-                                        <span class="selectgroup-button">Produk</span>
+                                        <input type="radio" name="category" value="antar" class="selectgroup-input">
+                                        <span class="selectgroup-button">Antar</span>
                                     </label>
                                     <label class="selectgroup-item">
-                                        <input type="radio" name="category" value="retail" class="selectgroup-input">
-                                        <span class="selectgroup-button">Retail</span>
+                                        <input type="radio" name="category" value="lainnya" class="selectgroup-input">
+                                        <span class="selectgroup-button">Lainnya</span>
                                     </label>
                                 </div>
                             </div>
